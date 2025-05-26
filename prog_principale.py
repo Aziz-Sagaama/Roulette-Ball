@@ -9,7 +9,7 @@ pygame.init()
 # Screen setup
 WIDTH, HEIGHT = 800, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Multiplayer Roulette - 3 Number Bets")
+pygame.display.set_caption("Multiplayer Roulettes 3 Number Bets")
 
 # Colors
 WHITE = (255, 255, 255)
